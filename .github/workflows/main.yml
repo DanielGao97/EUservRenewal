@@ -3,7 +3,7 @@ name: 'EUserv Renewal'
 on:
   workflow_dispatch:
   schedule:
-    - cron: '10 0 2 * *'
+    - cron: '10 0 26 * *'
   watch:
     types: started
 
